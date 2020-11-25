@@ -1,6 +1,8 @@
 ### Hi there 👋
-### I am Teja .I am an Machine learning Enthusiast
+### I am Teja .I am an Machine learning Enthusiast.I done Post Graduate Program in Data Science.
 * 🔭  I’m currently working on Machine learning Project
+
+ [LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-seemakurthi-336971127/)
 <!--
 **tejaseemakurthi/tejaseemakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
