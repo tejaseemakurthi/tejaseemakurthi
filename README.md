@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Teja .I am an Machine learning Enthusiast.I done Post Graduate Program in Data Science.
+### I am an Machine learning Enthusiast.I done Post Graduate Program in Data Science.
 * 🔭  I’m currently working on Machine learning Project
 
  [LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-seemakurthi-336971127/)
